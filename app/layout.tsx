@@ -6,23 +6,6 @@ export const metadata: Metadata = {
   title: 'Riyo Express ltd',
   description:
     'Riyo Express ltd — Premium flight booking, visa assistance, medical tourism, Hajj & Umrah packages and tour services worldwide.',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
 }
 
 export const viewport: Viewport = {
