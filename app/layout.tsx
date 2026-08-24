@@ -3,9 +3,9 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Global Horizon Travel Agency',
+  description:
+    'Global Horizon Travel Agency — Premium flight booking, visa assistance, medical tourism, Hajj & Umrah packages and tour services worldwide.',
   icons: {
     icon: [
       {
@@ -40,7 +40,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap"
+          rel="stylesheet"
+        />
+        <link rel="stylesheet" href="/style.css" />
+      </head>
+      <body>
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
