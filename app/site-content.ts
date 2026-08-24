@@ -3,9 +3,9 @@ export const SITE_BODY_HTML = `
   <header class="site-header" id="top">
     <div class="nav-container">
 
-      <a href="#top" class="nav-logo" aria-label="Global Horizon Travel Agency — home">
+      <a href="#top" class="nav-logo" aria-label="Riyo Express ltd — home">
         <span class="logo-plane" aria-hidden="true">&#9992;</span>
-        <span class="logo-wordmark">Global<strong>Horizon</strong></span>
+        <span class="logo-wordmark">Riyo <strong>Express</strong> Ltd</span>
       </a>
 
       <!-- Hamburger toggle (CSS-only) -->
@@ -445,7 +445,7 @@ export const SITE_BODY_HTML = `
           <article class="testi-card">
             <div class="stars" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
             <blockquote>
-              "Booked family holidays to Istanbul and Dubai through Global Horizon. Both times exceptional — great prices, great hotels, and a team always available on WhatsApp. Highly recommended to everyone."
+              "Booked family holidays to Istanbul and Dubai through Riyo Express ltd. Both times exceptional — great prices, great hotels, and a team always available on WhatsApp. Highly recommended to everyone."
             </blockquote>
             <footer class="testi-author">
               <div class="testi-avatar" aria-hidden="true">KA</div>
@@ -588,9 +588,9 @@ export const SITE_BODY_HTML = `
     <div class="container footer-grid">
 
       <div class="footer-brand">
-        <a href="#top" class="nav-logo" aria-label="Global Horizon Travel — back to top">
+        <a href="#top" class="nav-logo" aria-label="Riyo Express ltd — back to top">
           <span class="logo-plane" aria-hidden="true">&#9992;</span>
-          <span class="logo-wordmark">Global<strong>Horizon</strong></span>
+          <span class="logo-wordmark">Riyo <strong>Express</strong> Ltd</span>
         </a>
         <p>Your trusted partner for flights, visas, medical tourism, and sacred pilgrimages. Proudly serving travellers worldwide since 2009.</p>
         <nav class="social-row" aria-label="Social media links">
@@ -646,7 +646,7 @@ export const SITE_BODY_HTML = `
 
     <div class="footer-bottom">
       <div class="container footer-bottom-inner">
-        <p>&copy; 2024 Global Horizon Travel Agency. All rights reserved.</p>
+        <p>&copy; 2024 Riyo Express ltd. All rights reserved.</p>
         <nav aria-label="Legal links">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms &amp; Conditions</a>

@@ -3,9 +3,9 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Global Horizon Travel Agency',
+  title: 'Riyo Express ltd',
   description:
-    'Global Horizon Travel Agency — Premium flight booking, visa assistance, medical tourism, Hajj & Umrah packages and tour services worldwide.',
+    'Riyo Express ltd — Premium flight booking, visa assistance, medical tourism, Hajj & Umrah packages and tour services worldwide.',
   icons: {
     icon: [
       {
