@@ -502,7 +502,7 @@ export const SITE_BODY_HTML = `
                 </span>
                 <div>
                   <strong>Email</strong>
-                  <span>info@globalhorizontravel.com</span>
+                  <span>7gaaldile@gmail.com</span>
                 </div>
               </li>
 
