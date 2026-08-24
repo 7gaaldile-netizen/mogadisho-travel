@@ -420,9 +420,9 @@ export const SITE_BODY_HTML = `
               "The team arranged our entire Umrah trip seamlessly — flights, hotels, visas, and guided tours. It was a truly spiritual experience with zero stress. We will not go anywhere else for our next pilgrimage."
             </blockquote>
             <footer class="testi-author">
-              <div class="testi-avatar" aria-hidden="true">AH</div>
+              <div class="testi-avatar" aria-hidden="true">MD</div>
               <div>
-                <strong>Ahmed Hassan</strong>
+                <strong>Mursal Dhoolweyn</strong>
                 <span>Umrah Package Client</span>
               </div>
             </footer>
@@ -434,9 +434,9 @@ export const SITE_BODY_HTML = `
               "I needed urgent medical treatment abroad and they handled everything within 48 hours — the visa, hospital appointment, hotel, and flight. Outstanding professionalism and genuine care throughout."
             </blockquote>
             <footer class="testi-author">
-              <div class="testi-avatar" aria-hidden="true">FM</div>
+              <div class="testi-avatar" aria-hidden="true">AD</div>
               <div>
-                <strong>Fatima Mohammed</strong>
+                <strong>Abdirisaq Daahir</strong>
                 <span>Medical Tourism Client</span>
               </div>
             </footer>
@@ -448,9 +448,9 @@ export const SITE_BODY_HTML = `
               "Booked family holidays to Istanbul and Dubai through Riyo Express ltd. Both times exceptional — great prices, great hotels, and a team always available on WhatsApp. Highly recommended to everyone."
             </blockquote>
             <footer class="testi-author">
-              <div class="testi-avatar" aria-hidden="true">KA</div>
+              <div class="testi-avatar" aria-hidden="true">AD</div>
               <div>
-                <strong>Khalid Abdullahi</strong>
+                <strong>Abdullahi Daahir</strong>
                 <span>Leisure Travel Client</span>
               </div>
             </footer>
